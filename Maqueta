@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet2.css"/>
+		<title>Información financiera</title>
+	</head>
+	<body>
+    	<table>
+            <tr class="orange">
+    	    <td>Ventas*</td>
+    	    <td>$15,160</td>
+    	    </tr>
+    	    <tr class="orange">
+    	    <td>Dividendo**</td>
+    	    <td>5.32%</td>
+    	    </tr>
+    	        <tr class="gray1">
+    	            <td id="blockUR">UAFIRDA*</th>
+    	            <td id="blockUL">ACTIVOS</th>
+    	        </tr>
+    	        <tr class="gray1">
+    	            <td id="block1">$2,833</td>
+    	            <td id="block2">$13,834</td>
+    	        </tr>
+    	        <tr class="gray2">
+    	            <th id="block3">UTILIDAD NETA*</th>
+    	            <th id="block4">CAPITAL CONTABLE</th>
+    	        </tr>
+    	        <tr class="gray2">
+    	            <td id="block3">$1,339</td>
+    	            <td id="block4">$5,240</td>
+    	        </tr>
+    	</table>
+    	<div class="foot">
+    	    <p>Cifras en millones de pesos al 30 de Septiembre de 2016</p>
+    	    <p>* U12M</p>
+    	    <p>** Tasa de rendimiento por dividendos</p>
+        </div>
+	</body>
+</html>

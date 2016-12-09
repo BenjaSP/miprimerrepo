@@ -1,0 +1,50 @@
+* {
+    font-family: Cambria;
+}
+table {
+    width: 400;
+    border-collapse: collapse;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+}
+.orange {
+    height:50;
+    background-color: orange;
+    border-collapse: collapse;
+    border-bottom: 1px solid white;
+}
+.gray1 {
+    height:30;
+    background-color:gray;
+}
+#block1 {
+    border-right: 3px solid white;
+}
+#block2 {
+    border-left: 3px solid white;
+}
+.gray2 {
+    height:30;
+    background-color:#b6b6b6;
+}
+#block3 {
+    border-right: 3px solid white;
+}
+#block4 {
+    border-left: 3px solid white;
+}
+#blockUL {
+    border-left: 3px solid white;
+    border-top: 3px solid white;
+}
+#blockUR {
+    border-right: 3px solid white;
+    border-top: 3px solid white;
+}
+.foot {
+    width: 400;
+    font-size: 12px;
+    text-align: center;
+}
