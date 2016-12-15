@@ -2,21 +2,21 @@
     font-family: Cambria;
 }
 table {
-    width: 400;
+    width:400px;
     border-collapse: collapse;
-    color: white;
+    color:white;
     font-weight: bold;
     text-align: center;
     font-size: 18px;
 }
 .orange {
-    height:50;
+    height:50px;
     background-color: orange;
     border-collapse: collapse;
     border-bottom: 1px solid white;
 }
 .gray1 {
-    height:30;
+    height:30px;
     background-color:gray;
 }
 #block1 {
@@ -26,7 +26,7 @@ table {
     border-left: 3px solid white;
 }
 .gray2 {
-    height:30;
+    height:30px;
     background-color:#b6b6b6;
 }
 #block3 {
@@ -44,7 +44,7 @@ table {
     border-top: 3px solid white;
 }
 .foot {
-    width:400;
+    width:400px;
     font-size:12px;
     text-align:center;
 }
